@@ -1,0 +1,67 @@
+body {
+ background-image: url("bgm2.png");
+}
+
+
+
+.wb {
+    position: absolute;
+    width: max-content;
+    height: 152px;
+    left: 506px;
+    top: 0px;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 58px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+
+    
+}
+
+.logo {
+    position: absolute;
+    
+    width: 270px;
+    height: 270px;
+    left: 330px;
+    top: 200px;    
+}
+
+.blue {
+    position: absolute;
+    width: 270px;
+    height: 270px;
+    left: 830px;
+    top: 195px;    
+}
+
+.play {
+    position: absolute;
+width: 286px;
+height: 66px;
+left: 42%;
+top: 80%;
+
+font-family: 'Blippo', fantasy;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+
+
+color: aliceblue;
+
+}
+button {
+    border-radius: 5cm;
+    background-image: url("bgm.png");
+    background-size:500px ;
+    background-position-y: 15%;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
